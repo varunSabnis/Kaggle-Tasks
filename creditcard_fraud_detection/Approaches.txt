@@ -1,0 +1,15 @@
+Dataset is highly imbalanced. 
+
+So, the machine learning algorithms like Logistic regression will misclassify data for rare cases. 
+
+Following approaches are used to deal with this issue. 
+
+1.Random Under Sampling of majority class data
+ 
+2.Random oversampling of minority class data 
+
+3.Cluster based oversampling
+
+4. Synthetic Minority Over-Sampling TechniquE (SMOTE)
+
+Evaluate each classifier using ROC and AUS
